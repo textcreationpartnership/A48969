@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation given forth at the requirings of the Lord in tender love to all that have been in any measure turned unto truth, by the visitation of the Almighty, in his spiritual appearance, that they be faithful and obedient thereunto.</title>
+            <author>Lombe, Henry, d. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48969</idno>
+            <idno type="STC">Wing L2845</idno>
+            <idno type="STC">ESTC R20184</idno>
+            <idno type="EEBO-CITATION">12402477</idno>
+            <idno type="OCLC">ocm 12402477</idno>
+            <idno type="VID">61291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 767:46 or 2605:1d)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation given forth at the requirings of the Lord in tender love to all that have been in any measure turned unto truth, by the visitation of the Almighty, in his spiritual appearance, that they be faithful and obedient thereunto.</title>
+                  <author>Lombe, Henry, d. 1695.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Sowle, at the Crooked Billet in Holy-well-Lane, Shoreditch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: Henry Lombe. Norwich the 20th of the 11th month, 1693.</note>
+                  <note>Setting of p. 6 varies.</note>
+                  <note>Reproduction of originals in Huntington Library and Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Worship and love --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61291:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <head>
+               <hi>AN EXHORTATION</hi> Given forth at the Requirings of the Lord, in tender Love to all that have been in any Meaſure turned unto Truth, by the Viſitation of the Almighty, in his Spiritual Appearance; that they be faithful and Obedient thereunto.</head>
+            <opener>
+               <salute>My <hi>Friends,</hi>
+               </salute>
+            </opener>
+            <p>Great has been (and ſtill is) the Love and Mercy that the Lord God Eternal has Manifeſted un<g ref="char:EOLhyphen"/>to the Children of Men, in that whileſt they are in a State of Diſobedience &amp; Rebellion againſt his Holy Law, in their Hearts; which by Nature all Men and Women are, as ſaith the <hi>Apoſtle Paul, We are all by Nature Children of Wrath,</hi> yet ſuch is the Love of God, that in this State, he is extending his Grace, and he is viſiting of Mankind by his Light and Holy Spirit, in order to turn them from their Evil Wayes to ſerve the Living and true God, and to as many as truly obey his Call, and turn unto him with their Hearts, they come to partake of Salvation and Eternal Life by him; And amongſt the many others, who in the day of Gods Viſitation came to Believe in him that Viſi<g ref="char:EOLhyphen"/>ted, the Lord was pleaſed to reach unto my Soul and to give me an underſtanding of my State and Condition, whereby I came to know and Believe, that it was the Lord that then called unto me to forſake my Sins and Evil Deeds, and my heart was af<g ref="char:EOLhyphen"/>fected with his Goodneſs, and I was made willing in ſome Meaſure to turn from my Inquity that diſpleaſed the Holy God, and to forſake the vain Pleaſures and delights of this Evil world, and to ſuffer Afflictions and Reproach for his Names ſake. But this is that which is now Matter of Bitter Lamentation unto me
+<pb n="2" facs="tcp:61291:2"/>
+               <!-- PDF PAGE 37 -->when I conſider thereof, that after the Lord had thus been good and Gracious unto me, the Enemy of all Mankind, that al<g ref="char:EOLhyphen"/>ways ſeeks to deſtroy the Work of God, he was near unto me with his Temptations and Allurements, and for want of keep<g ref="char:EOLhyphen"/>ing Low before the Lord, and dwelling in the Sence of that Power that had reached unto me, and began my Deliverance out of Bondage, I was again intangled in the Snares of the Evil one, and thereby Darkneſs came over again, and Deadneſs and Dryneſs, as to the Enjoyment of Gods Preſence; So that altho' I kept in a form and Profeſſion of the Truth of God: Yet then I wanted the Enjoyment of the Life and Power that would have ſaved me from Sin, and kept me from Diſobedience in Unity and fellowſhip with my Maker; and in this deplorable ſtate I remained many Years, walking in a Way that was not accep<g ref="char:EOLhyphen"/>table to the Lord, though as to the outward I was a Zealous for the form of Truth, and exerciſed in diverſe Services thereof, as many others, and was owned and eſteemed as a Friend of <hi>Truth;</hi> Yet I wanted Peace with the Lord, and the joy of his Salvation. Now ſuch has been the Love of my God, that he followed me with his Judgements, and called unto me to re<g ref="char:EOLhyphen"/>turn unto him from whom I was fallen, and repent of my Ini<g ref="char:EOLhyphen"/>quity, and he would heal my Back-ſliding, &amp; would love me free<g ref="char:EOLhyphen"/>ly; and at length through the tender Mercy of God, who had long waited upon me to ſhew himſelf Gracious and merciful un<g ref="char:EOLhyphen"/>to my Soul, I was again brought down into a Conſideration of my State and Condition, and of my want of the Enjoyment of the preſence of the Lord, that had ſo Mercifully dealt by me, at my firſt Convincement, and the ſence hereof became a Hea<g ref="char:EOLhyphen"/>vy Burthen upon my Spirit, and the Lord raiſed up Secret Crys in my Soul, Oh! that I might be delivered from my Sins, that now Separated me from the enjoyment of true Peace and fellow<g ref="char:EOLhyphen"/>ſhip with my Maker; for now I came to ſee my ſelf in an undone State, without the Lord did appear again to be my Helper, notwithſtanding I kept in the outward Profeſſion of the Truth,
+<pb n="3" facs="tcp:61291:2"/>
+               <!-- PDF PAGE 37 -->and was conſtant in Preſenting my body before the Lord; but it pleaſed the Lord, after he had thus reached unto me, and let me ſee my State, to bring near his Righteous Judgements into my Heart, and to condemn Sin in my Mortal Body, whereby as I came to love his Judgements, and to ſubmit thereunto, I was brought down into the Death, unto that Life I had formerly lived in, and the Terrors of the Lord I came to feel, and Wit<g ref="char:EOLhyphen"/>neſs Revealed in me againſt that Nature that had diſobeyed the Lord, and which was not Subject unto his Holy Law (neither indeed can it be) and therefore it was to be Crucified and ſlain by the Sword of Gods Spirit; and this was a day of great diſtreſs and Bitterneſs of Soul: Oh! the Sorrow and horrour that I felt in my Soul for my Iniquity, and then the Enemy, he alſo was buſy to keep his Poſſeſſion in me, finding the Lord at work to diſpoſſeſs and caſt him out of his Seat, where he had Ruled, and had the Dominion, then he laboured to perſwade me that there was no Mercy for me, but that the Lord had wholly forſaken me, and that was the Cauſe I was now in Trouble; but after I had remained a little Seaſon in this condition, it pleaſed the God of all Mercy a little to appear, and to afford me ſome Glimpſes of his Love to bear up my head from ſinking in the day of my Di<g ref="char:EOLhyphen"/>ſtreſs, and although his Judgements were heavy upon me for my Sins, yet this I came to witneſs, in Judgement the Lord re<g ref="char:EOLhyphen"/>membred Mercy, as I was ſubject to him that Judged, and gave up to anſwer him in the ways of his Judgements, and in due time the Lord did manifeſt more &amp; more of his Mercy towards me, and although I went forth Weeping, bearing the Precious Seed, yet there was a hope begotten in me, that the time would come I ſhould return again rejoycing and bring my Sheaf with me. And now Glory and Praiſe be given unto the Lord my God for ever, the day is now begun to appear unto me, and in me, which is a day of Gladneſs, and of great joy, even the day of my Souls Redemption and Salvation from under the Power of Darkneſs, and out of the Regions and ſhadow of Death, and to walk be<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:61291:3"/>
+               <!-- PDF PAGE 38 -->the Lord in newneſs of Life; and now I am come ſenſibly to witneſs, that it is the Lord alone that is able to keep us, and that we have daily need to wait upon the Lord for ſtrength and Power, and that we ought to be upon our Watch-Tower eve<g ref="char:EOLhyphen"/>ry day, leaſt the Enemy prevail again to draw us away from the Lord, for he is a very ſubtile and buſie Adverſary to mans everlaſting happineſs, but as we dwell in the Light, his Snares and Temptations are made manifeſt, and the Power is made known &amp; enjoyed, that delivers out of the ſame, and in the Sence thereof we are bound to praiſe the Name of the Lord our God, who is the Keeper and Preſerver of all thoſe that put their Truſt in Him.</p>
+            <p>And now my Friends, the Lord having been graciouſly plea<g ref="char:EOLhyphen"/>ſed thus to viſit my Soul with his Goodneſs, and make me in the Riches of his Love, a partaker in ſome meaſure of his Salva<g ref="char:EOLhyphen"/>tion; and having alſo raiſed up a Hope in me, that as he has begun this Work in my Soul, ſo alſo he will (if I abide faith<g ref="char:EOLhyphen"/>ful unto him) carry it on, and perfect it to his praiſe, and to my Eternal Comfort; So he hath alſo begotten a concern upon my Spirit, to make known this his Wonderful. Goodneſs unto others, that I ſhould declare of his Mercies, unto the Congre<g ref="char:EOLhyphen"/>gations of his People, that thoſe that are faithful to the Lord may rejoice on my behalf, and praiſe the Name of my Re<g ref="char:EOLhyphen"/>deemer, and thoſe that are yet in that ſtate wherein I was; even in Diſobedience to the Light of Jeſus, and are ſet down at eaſe taking up a reſt ſhort of the true reſt, which none can ever en<g ref="char:EOLhyphen"/>joy but thoſe that are faithful and obedient, that theſe may be awakened and ſtirred up to conſider their own ſtates and Con<g ref="char:EOLhyphen"/>ditions, whilſt a day of Mercy is afforded them, for how know any Man or Woman how ſoon their day may be over, and then <hi>Woful and Sad</hi> will their ſtate and Condition be in<g ref="char:EOLhyphen"/>deed, and whereas the Lord hath made me ſenſible of his Ter<g ref="char:EOLhyphen"/>rors for my Diſobedience, a Travel lives upon my Spirit that others may be brought into Obedience unto the Lord, that they
+<pb n="5" facs="tcp:61291:3"/>
+               <!-- PDF PAGE 38 -->might witneſs his Salvation before the day of Fierce anger break for upon them.</p>
+            <p>And further my Friends I have been brought into a ſence of the deep Tryals I am like to paſs through, and the many Spi<g ref="char:EOLhyphen"/>rits to be tryed with, and believing that many may through their being unacquainted with the Work of the Lord in themſelves, be lyable to paſs a wrong Judgement upon me (as I have alrea<g ref="char:EOLhyphen"/>dy underſtood ſome have done) Judging the Work which the Lord has wrought in me to be only the effect of ſome Natural cauſe, as Proceeding from Melancholly; and therefore to inform ſuch who have ſo Judged, and to prevent others from the like miſtakes, I am conſtrained to give this forth as a Teſtimony to the Lords great Love and Goodneſs, and I hereby do declare in the ſence thereof, That the Work that has been wrought in me is the Lords Work, and the Praiſe thereof is to be given to him alone. And I do alſo further declare and Teſtify, that the Lord in this the day of his great Love to my Soul, has been pleaſed to Diſcover unto me divers things, wherein I had diſo<g ref="char:EOLhyphen"/>beyed his Holy Law Written in my heart, and which he did require me to forſake and part withal; but that which in parti<g ref="char:EOLhyphen"/>cular I find a concern to live upon my Spirit to give forth as a publick Teſtimony unto others, is, that the Lord has manifeſted unto me his diſpleaſure <hi>againſt my being concerned in making any Fi<g ref="char:EOLhyphen"/>gured and Gaudy Stuffs,</hi> whoſe end and Service was chiefly to ſatisfie the Vain and Proud Minds of Men and Women, that live in diſobedience to God, and that thoſe things have their riſe and beginning, and are invented by man, whoſe Heart and mind is gone aſtray from the Council of the Lord; and therefore by ſuch as come to yield up unto him, and take Council of his Ho<g ref="char:EOLhyphen"/>ly Spirit, they are to be denyed and turned from, and we are not to reaſon with Fleſh and Blood about thoſe things, ſaying, If I leave this way I know not how I ſhall get ſuch a Mainte<g ref="char:EOLhyphen"/>nance for my Family, as I now can; and if the Lord would make out a way for me in other things; I could willingly part
+<pb n="6" facs="tcp:61291:4"/>
+               <!-- PDF PAGE 39 -->with this, and ſo are preferring their preſent Proſperity here in this ſhort and Tranſitory Life, before their Peace and Eternal Comfort and Felicity with the Lord for ever. O my Friends, it is better to have inward Peace with the Lord, and the Seal and Teſtimony of Faithfulneſs born witneſs unto us, and in us, though we do ſuffer in the outward, then to enjoy outward Comfort for a l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttle ſeaſon, and want inward Peace. My Friends it is the Faith the Lord hath given unto me, that thoſe that are obedient unto him, and bear a faithful Teſtimo<g ref="char:EOLhyphen"/>ny for his Truth againſt that Spirit of Pride and Wickedneſs that ſo much abounds in this our Age, they ſhall not want that which is neceſſary for their ſupport in the outward, and on the contrary they that refuſe to obey the Lord, and anſwer his re<g ref="char:EOLhyphen"/>quirings, and think by continuing in that which grieves his Ho<g ref="char:EOLhyphen"/>ly Spirit, to gather together, and increaſe in Riches, the Lord is able to blaſt all their Increaſe when he pleaſes: Therefore let all be perſwaded to be faithful to the Lord, and turn their hearts and minds to ſeek him above all things, as ſaid our bleſ<g ref="char:EOLhyphen"/>ſed Lord to his Diſciples, <hi>Seek ye firſt the Kingdom of Heaven, and the Righteouſneſs thereof, and all other things that the Lord ſees good for as ſhall be added as his bleſſings.</hi> Let us not content our Selves with an outſide ſhew or Profeſſion of Religion, but let us every one be concerned to know and witneſs for our ſelves, and in our ſelves, a being quickened and made alive to God, by the Power of the Reſurrection of <hi>Jeſus Chriſt,</hi> revealed in us by his holy Spirit, that he may fit and prepare our Hearts to be a fit habitation for himſelf to <hi>dwell in.</hi> For unleſs we come to witneſs this for our Selves, all our Faith is in vain, and we are yet in our ſins unredeemed from Corruption, and <hi>Chriſt Jeſus,</hi> by all that he has done and ſuffered, for the Salvation and Reſtauration of poor loſt Man, will in the end profit nothing to ſuch a Soul, without Unfeigned Repentance.</p>
+            <p>My Friends, I found a concern to lye upon me from the Lord
+<pb n="7" facs="tcp:61291:4"/>
+               <!-- PDF PAGE 39 -->to Teſtify this unto you, being fully ſatisfied that thoſe that are faithful unto the Lord God in their own Particulars, will ſet to their Seals, that this my Teſtimony is the Truth, and unto the Witneſs of God in every Mans Conſcience, that will give a right and true Judgement, do I commit my ſelf and what I have teſti<g ref="char:EOLhyphen"/>fyed to be Judged not being concerned what Judgement the Carnal minded man may paſs upon me, for I ſeek not to pleaſe man but to ſerve and pleaſe the Lord my God is that which now I do deſire and preſs after, and unto whom alone for all his Mercies and tender dealings towards my Soul, I do at this time render and aſcribe the praiſes and thanksgivings and honour, for he alone is worthy, ſaith my Soul, for ever and ever, who is over all the Works of his Hand, God bleſſed in himſelf for ever, <hi>Amen.</hi>
+            </p>
+            <p>This is given forth by one whom the Lord has pluckt as a Brand out of the Fire, and has made as a Monument of his great Mercy, who in the ſence of his Infinite Love is made a Lover of the Souls of all People, and therein Travails for, and deſires the good and welfare of all, but more eſpecially thoſe who have in meaſure been made partakers of his Love, but have not been faithful thereunto, that they might return unto the Lord before his day of Love be over, this is the breathing and Cry of the Soul of your Well-wiſhing Friend,</p>
+            <closer>
+               <signed>HENRY LOMBE</signed>
+               <dateline>Norwich <date>the 20th. of the 11th. <hi>Month,</hi> 1693.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This to be Read in the ſeveral Monthly Meetings of <hi>Friends,</hi> in <hi>England</hi> or elſewhere.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London <hi>Printed by</hi> T. Sowle, <hi>at the</hi> Crooked Billet <hi>in</hi> Holy-well-Lane, Shoreditch. 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
